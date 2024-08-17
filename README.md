@@ -4,5 +4,4 @@ Matricula: 	202124110
 Nombre: 	Surikey Hipolito Aguilar
 Materia: 	Desarrollo de Aplicaciones Web
 Periodo: 	Otoño 2024
-
-Repositorio para practicas de desarrollo web
+Descripción:	Repositorio creado para las practicas de la materia de desarrollo de aplicaciones web
